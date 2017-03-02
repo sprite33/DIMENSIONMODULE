@@ -20,7 +20,13 @@ git clone https://github.com/sprite33/DIMENSIONMODULE.git
 
 ### CreateWallDimension_Horizontal
 This macro is for walls running left to right on your monitor
+1. Manage > Macro Manager > DIMENSIONMODULE > CreateWallDimension_Horizontal > Run button
+2. Click and drag to select walls running horizontal.
+3. Select a point to place your dimensions.
 
 ### CreateWallDimension_Vertical
 This macro is for walls running up to down on your monitor
+1. Manage > Macro Manager > DIMENSIONMODULE > CreateWallDimension_Vertical > Run button
+2. Click and drag to select walls running vertical.
+3. Select a point to place your dimensions.
 
