@@ -1,0 +1,3 @@
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\DIMENSIONMODULE\AddIn\DIMENSIONMODULE.dll
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\DIMENSIONMODULE\Source\DIMENSIONMODULE\obj\Debug\DIMENSIONMODULE.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2014\Revit\AppHookup\DIMENSIONMODULE\Source\DIMENSIONMODULE\obj\Debug\DIMENSIONMODULE.dll
