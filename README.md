@@ -6,5 +6,5 @@ Use Windows Command prompt and clone this git into following destination. If you
 
 ```bash
 cd C:\ProgramData\Autodesk\Revit\Macros\2015\Revit\AppHookup
-git clone https://github.com/sprite33/RevitAPI_Dimension.git
+git clone https://github.com/sprite33/DIMENSIONMODULE.git
 ```
