@@ -15,3 +15,12 @@ git clone https://github.com/sprite33/DIMENSIONMODULE.git
 2. Manage -> Macro Manager
 3. Click DIMENSIONMODULE -> Click Edit Button
 4. Click F8 to Build
+
+## How to Use
+
+### CreateWallDimension_Horizontal
+This macro is for walls running left to right on your monitor
+
+### CreateWallDimension_Vertical
+This macro is for walls running up to down on your monitor
+
